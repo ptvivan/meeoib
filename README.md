@@ -1,0 +1,4 @@
+ninja
+=====
+
+no special
